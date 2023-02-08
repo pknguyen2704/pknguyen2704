@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pknguyen2704&label=Profile%20views&color=0e75b6&style=flat" alt="pknguyen2704" /> </p>
 
-- 🔭 I’m currently working on **UET - University of Engineering and Technology**
-
 - 📫 How to reach me **pknguyen2704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
