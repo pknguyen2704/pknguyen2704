@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phùng Khôi Nguyên</h1>
 <h3 align="center">Study at K67 - TCLC - UET</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.utitech.co.th%2F17708592%2Fprogrammer-low-code&psig=AOvVaw3JQFNO_usRMj_W4lqFD1SK&ust=1675974749749000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDUvs7ihv0CFQAAAAAdAAAAABAE”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pknguyen2704&label=Profile%20views&color=0e75b6&style=flat" alt="pknguyen2704" /> </p>
 
 - 🔭 I’m currently working on **UET - University of Engineering and Technology**
