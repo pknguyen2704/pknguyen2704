@@ -1,4 +1,4 @@
-![logo](https://github.com/pknguyen2704/pknguyen2704/blob/main/anh%20dai%20dien.png)
+![logo](https://github.com/pknguyen2704/pknguyen2704/blob/main/anh%20dai%20dien.jpg)
 <h1 align="center">Hi 👋, I'm Phùng Khôi Nguyên</h1>
 <h3 align="center">Study at K67 - TCLC - UET</h3>
 
