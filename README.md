@@ -3,8 +3,8 @@
   <img src="https://github.com/pknguyen2704/pknguyen2704/blob/main/anh%20dai%20dien.jpg" alt="avatar" width="180" height="180" style="border-radius:50%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Phùng Khôi Nguyên</h1>
-<h3 align="center">Data Engineer | K67 - TCLC - UET</h3>
+<h1 align="center">Hi 👋, I’m Phung Khoi Nguyen (Andrew)</h1>
+<h3 align="center">Data Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pknguyen2704&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
@@ -13,14 +13,13 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently studying at **UET - VNU**  
+- 🎓 Currently a fourth-year student at **UET – VNU**  
 - 💼 Position: **Data Engineer**  
-- 🌱 I’m focusing on:
+- 🌱 I’m focusing on:  
   - Data Pipeline & Orchestration  
   - Distributed Systems (Spark, Hadoop, Kafka)  
-  - Cloud Data Platform (AWS / GCP)  
-- 🔭 I'm working on: **[project placeholder]**  
-- 📫 Reach me at **pknguyen2704@gmail.com**
+- 🔭 I’m working on: Intern at **Viettel Network**  
+- 📫 Reach me at: **pknguyen2704@gmail.com**
 
 ---
 
@@ -29,7 +28,7 @@
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/nguyenpk.andrew/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
@@ -42,7 +41,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Data Engineer)
+## 🛠️ Tech Stack (Data Engineering)
 
 ### 🔷 Programming Languages  
 <p>
@@ -58,20 +57,13 @@
 
 ### 🔷 Cloud & DevOps  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux" height="40"/>
   <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🔷 Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,vscode,pycharm" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ps,ai" height="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
-
+## 📈 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pknguyen2704&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pknguyen2704&layout=compact&theme=tokyonight" height="160"/>
@@ -91,7 +83,6 @@
 ---
 
 ## 📚 Featured Projects  
-*(Bạn sẽ tự điền sau — để khoe những project nổi bật)*  
 
 - 🔥 **Project 1: Real-time Data Pipeline (Kafka → Spark → Hudi → Superset)**  
 - 📊 **Project 2: Data Lakehouse on AWS**  
@@ -100,6 +91,5 @@
 
 ---
 
-## ❤️ Support
-
-If you like my work, consider giving ⭐ to my repos!  
+## ❤️ Support  
+If you like my work, consider giving ⭐ to my repos!
