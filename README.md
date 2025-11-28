@@ -1,6 +1,5 @@
 
-<h1 align="center">Hello everyone 👋 </h1>
-<h1 align="center">I’m Khoi Nguyen Phung (Andrew Phung)</h1>
+<h1 align="center">Hello everyone 👋, I'm Khoi Nguyen Phung</h1>
 <p align="center">I am passionate about bigdata data engineering</p>
 
 <p align="center">
