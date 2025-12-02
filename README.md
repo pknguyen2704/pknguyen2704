@@ -13,8 +13,7 @@
 - Position: **Data Engineer**  
 - I’m focusing on:  
   - Build Bigdata Platform
-  - Data Processing (Ingestion, Transformation)
-- I’m working on: Intern at <img align="center" src="./assets/vtn.png" height="20" />
+  - Create data pipeline
 - Reach me at: **pknguyen2704@gmail.com**
 
 ## Connect with me  
