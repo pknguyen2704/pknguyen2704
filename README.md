@@ -10,7 +10,7 @@
 
 ## About Me  
 - Currently a fourth-year student at **UET – VNU**  
-- Position: **Data Engineer**  
+- Position: **Data Engineering**  
 - I’m focusing on Data Engineering and Big Data
 - Reach me at: **pknguyen2704@gmail.com**
 
